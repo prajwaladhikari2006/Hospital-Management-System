@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Smart Healthcare System — MySQL Edition
 
 ## What's New (v2 — Unified Auth)
@@ -28,3 +29,7 @@ streamlit run app.py
 | Doctor       | ❌                      | ✅ Appointments, Diagnosis, Rx |
 | Receptionist | ❌                      | ✅ Register, Book, Admit, Bill |
 | Admin        | ✅ Full + Admin Panel   | ✅ All portals          |
+=======
+# HospitalManagementSystem
+A Python-based Hospital Management System for managing patient records, appointments, user portals, and reports.
+>>>>>>> c4881092fff5c79c5bd89e049d7697d4fa5f7d35
